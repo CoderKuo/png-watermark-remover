@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+/release/*.exe
+*.spec
+build/
+dist/
